@@ -1,0 +1,1 @@
+16:17:11.206 [main] DEBUG stepDefinitions.B_FilterByRefundStep - Exception occurred:Cannot invoke "pageObjects.FilterByRefund.getHotels()" because "this.priceRefundPage" is null
